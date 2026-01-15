@@ -30,10 +30,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=nsujal10&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nsujal10&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nsujal10&show_icons=true&locale=en&layout=compact" alt="nsujal10" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nsujal10&show_icons=true&locale=en" alt="nsujal10" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsujal10&" alt="nsujal10" /></p>
