@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif](https://res.cloudinary.com/teepublic/image/private/s--alGyrk7C--/t_Preview/b_rgb:000000,c_lpad,f_jpg,h_630,q_90,w_1200/v1615297076/production/designs/20069960_0.jpg))](https://nsujal10.io)
+[![MasterHead](https://res.cloudinary.com/teepublic/image/private/s--alGyrk7C--/t_Preview/b_rgb:000000,c_lpad,f_jpg,h_630,q_90,w_1200/v1615297076/production/designs/20069960_0.jpg)](https://nsujal10.io)
 <h1 align="center">Hi 👋, I'm Sujal Nage</h1>
 <h3 align="center">A passionate AI-Driven Full-Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
